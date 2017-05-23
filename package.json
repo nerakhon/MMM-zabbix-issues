@@ -1,0 +1,25 @@
+{
+  "name": "Magic-Mirror-Module-Zabbix-Issues",
+  "version": "1.0.0",
+  "description": "Zabbix Issues list module for the Magic Mirror.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nerakhon/MMM-zabbix-issues"
+  },
+  "keywords": [
+    "magic mirror",
+    "smart mirror",
+    "zabbix",
+    "module"
+  ],
+  "author": "Jan Paul",
+  "contributors": "https://github.com/nerakhon/MMM-zabbix-issues/graphs/contributors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nerakhon/MMM-zabbix-issues/issues"
+  },
+  "homepage": "https://github.com/nerakhon/MMM-zabbix-issues#readme",
+  "dependencies": {
+    "nodebix": "latest"
+    }
+}

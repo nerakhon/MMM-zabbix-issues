@@ -1,0 +1,19 @@
+.ticker {
+  color: white;
+}
+
+.disaster {
+  color: red;
+}
+
+.information {
+  color: #61df8f;
+}
+
+.warning {
+  color: #fec95a;
+}
+
+.average {
+  color: #fd9f5a;
+}
