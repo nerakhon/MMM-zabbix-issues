@@ -22,6 +22,7 @@ module.exports = NodeHelper.create({
                   monitored: true,
                   only_true: true,
                   maintenance: false,
+                  withUnacknowledgedEvents: true,
                   limit: false
               });
           })
