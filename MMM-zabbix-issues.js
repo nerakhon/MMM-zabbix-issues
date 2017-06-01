@@ -42,7 +42,7 @@ Module.register("MMM-zabbix-issues", {
         statElement.innerHTML = title;
         wrapper.appendChild(statElement);
 
-        if (data && !this.isEmpty(data)) {
+        if (data) {
             var tableElement = document.createElement("table");
 
             for (var key in data) {
